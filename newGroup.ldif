@@ -1,0 +1,7 @@
+dn: cn=unmaxfes,ou=Group,dc=COOS291,dc=Camilo,dc=edu
+objectClass: posixGroup
+objectClass: top
+cn: unmaxfes
+userPassword: {crypt}x
+gidNumber: 5982
+
